@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contactEmailRot13</key>
+	<string></string>
+	<key>description</key>
+	<string>Dracula Theme</string>
+	<key>name</key>
+	<string>Dracula</string>
+	<key>uuid</key>
+	<string>224FDD97-313F-491B-B2E0-3737C4AAE2FA</string>
+</dict>
+</plist>
